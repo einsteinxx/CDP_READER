@@ -1,2 +1,2 @@
 # CDP_READER
-Extract AltaData Common Data Packet (CDP) formatted data into MATLAB structures
+Extract Alta Data Mil-std 1553 Common Data Packet (CDP) formatted data into MATLAB structures
